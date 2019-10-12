@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itmCumbia"
+        android:title="Cumbia"
+        />
+    <item
+        android:id="@+id/itmelectro"
+        android:title="Electronica"
+        />
+    <item
+        android:id="@+id/itmreg"
+        android:title="Reggaeton"
+        />
+    <item
+        android:id="@+id/itmSalir"
+        android:title="Salir"
+        />
+
+</menu>
